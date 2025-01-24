@@ -34,3 +34,7 @@ Provide the Y coordinate of the center point: 23
 Provide the radius: 10
 Provide the angular velocity: 0.3
 ```
+![example-1](https://github.com/user-attachments/assets/d5ea6c37-c5eb-458e-907f-0e3c588d1ebf)
+![example-2](https://github.com/user-attachments/assets/b1c5b9f7-5379-4ed5-85b6-7928f9ea19f5)
+![example-3](https://github.com/user-attachments/assets/75ae1234-6dee-4755-b90e-4bf1e80c9978)
+![example-4](https://github.com/user-attachments/assets/1629e5ea-11ca-41c4-a4d7-8a5f8448a83b)
