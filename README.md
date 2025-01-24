@@ -2,7 +2,7 @@
 
 ## Description
 
-This project animates a ball moving in circular motion around a fixed point. The size of the ball, distance to the cewnter point, initial position, and angular velocity are specified by the user. It supports both clockwise and counter-clockwise movement through different values of angular velocity. To calculate values of any trigonometric function, a simple numerical approximation is used. The program utilizes the RARS bitmap display.
+This project animates a ball moving in circular motion around a fixed point. The size of the ball, distance to the center point, initial position, and angular velocity are specified by the user. It supports both clockwise and counter-clockwise movement through different values of angular velocity. To calculate values of any trigonometric function, a simple numerical approximation is used. The program utilizes the RARS bitmap display.
 
 The program is made using the RARS simulator, which is used for RISC-V assembly programming projects. RARS is written in Java and distributed as a .jar Java archive, making it platform-independent. It can be run under any OS, including Linux, Windows, and macOS. RARS simulator can be downloaded as an operating system-independent Java archive (.JAR file) from [RARS GitHub repository](https://github.com/TheThirdOne/rars).
 
