@@ -174,7 +174,7 @@ sine:
 	fmul.s	fs7, fs3, fs6	# multiply result by radius
 	fcvt.w.s s4, fs7	# convert to integer
 	beqz	s5, move_ball
-#calculate y coordinate
+# calculate y coordinate
 	slli	s4, s4, 9	# normalize to y coordinate
 	add	s6, s4, s1
 	
